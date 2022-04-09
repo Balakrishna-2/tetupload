@@ -1,1 +1,5 @@
-SAmoe file craeted  in git.
+Sample file craeted  in git.
+
+
+
+Thanks.
